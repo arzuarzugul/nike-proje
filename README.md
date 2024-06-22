@@ -1,6 +1,3 @@
-# okul
 # nike
-# nike
-# nike
-# nike
-# nike
+# nike-proje
+# nike-proje
